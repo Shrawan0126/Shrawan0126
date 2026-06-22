@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Shrawan Kumar 👋</h1>
 
-<h3 align="center">Computer Science undergraduate focusing on Full Stack Development & Data Structures</h3>
+<h3 align="center">Computer Science undergraduate focusing on AI/ML & Data Structures</h3>
 
 <p align="center">
   <a href="https://github.com/readme-typing-svg">
