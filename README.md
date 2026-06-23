@@ -12,11 +12,11 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 **B.Tech in Computer Science and Engineering** at Central University of Rajasthan.
-* 🔭 Currently building **Curush**, a full-stack application featuring user authentication and dynamic profiles.
-* 🌱 Expanding my knowledge in **Artificial Intelligence, Generative AI, and NLP**.
-* 💡 Actively solving **Data Structures and Algorithms** problems, with a focus on Dynamic Programming, Greedy algorithms, and Bit Manipulation.
-* ⚡ Fun fact: I run my code on an ASUS TUF Gaming A15 (Ryzen 7, RTX 2050) to keep up with development and ML tasks!
+I am a B.Tech Computer Science student with a strong interest in problem-solving and intelligent systems. I have a strong command of Data Structures and Algorithms (DSA) using C++, confidently tackling complex problems to write highly efficient and optimized code.
+
+Alongside this, I use Python for AI/ML and am currently exploring the field of Artificial Intelligence and Machine Learning. I am passionate about understanding how intelligent systems work and applying this knowledge to real-world problems.
+
+I am eager to continue learning, strengthen my technical skills, and contribute to innovative projects in a professional environment.
 
 ---
 
@@ -33,11 +33,17 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats & Contributions
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shrawan0126&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrawan0126&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrawan0126&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Shrawan0126?theme=radical&font=Fira%20Code&ext=activity" alt="LeetCode Stats & Activity" />
 </div>
 
 ---
@@ -45,7 +51,7 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/Shrawan Kumar" target="_blank">
+  <a href="https://www.linkedin.com/in/shrawan0126" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/Shrawan0126/" target="_blank">
