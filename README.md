@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(Node.js+%7C+Flask);DSA+Enthusiast;Exploring+Generative+AI+%26+NLP" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=DSA+Enthusiast;Exploring+Generative+AI+%26+NLP;Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,9 +23,6 @@ I am eager to continue learning, strengthen my technical skills, and contribute 
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -43,7 +40,7 @@ I am eager to continue learning, strengthen my technical skills, and contribute 
 <br>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Shrawan0126?theme=radical&font=Fira%20Code&ext=activity" alt="LeetCode Stats & Activity" />
+  <img src="https://leetcard.jacoblin.cool/Shrawan0126?theme=radical&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats & Activity" />
 </div>
 
 ---
